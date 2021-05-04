@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ngôi Sao Xanh</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">4eFanOLX7PzEL3vvaEmK9Hz9axa330_9A3xWA</string>
+    <string name="CodePushPublicKey">-----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArJdQjHW2wAbq5xUhngMf
+LawkoRkMP+lIQknxfy0ZtWrk5jVemZuMr5Hbiz0xGted8wYR2T3rvpUlHDPdZYUq
+ROns4Pw+87IRDKnqRrVnxx0rAVpD7G1sRFQoOzo+K9vF4ccLbcPYwLe/nLPO2Abb
+cxCB8q1mw6fsg4dvIQq0ZC3jZ/uToSmwZKCHfNIsZZ3b4m8sNBRMagMu4rbwPtNV
+IJruHFjitAIeCxEXFZ78imU6Y1l+aKf9k8mIyiRTi+vKbhdWE2bgmOce/zMBf7PR
+pJJvU4kw2jZNHOCJFztd+iIpb0Q/qKbeLQlr6Ye+UpCdPtZNAheDmD6rK6QsZpAE
+xQIDAQAB
+-----END PUBLIC KEY-----</string>
+</resources>
